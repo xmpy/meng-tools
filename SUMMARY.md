@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Design](design.md)
-   * Sketcg
+   * [Sketcg](sketch.md)
 
