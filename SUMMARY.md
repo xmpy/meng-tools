@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Design
+* [Design](Design/README.md)
 
