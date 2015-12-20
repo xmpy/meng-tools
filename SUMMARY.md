@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Design](Design/README.md)
-   * Design/Sketch
+   * [Design/Sketch](Design/designsketch.md)
 * dd
 
