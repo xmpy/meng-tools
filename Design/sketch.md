@@ -32,4 +32,5 @@ http://app.sike.io/courses/design101/first-impression/
 
 另外一个比较通用的做法是让头部背景和窗口一样宽，但限制它的高度。这样就可以保证后面的内容不需要滚动也能显示一部分。参考常见显示器的大小，可以把高度设定在 600~700px 之间。排版示意图大概这样：
 
+***How to mask in Sketch? (裁剪图像)***
 
